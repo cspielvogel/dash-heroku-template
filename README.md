@@ -1,4 +1,4 @@
-# dash-heroku-tempalte
+# dash-heroku-template
 Test and template for hosting Dash visualizations using Heroku
 
 Open via
